@@ -1,4 +1,3 @@
-Copy code
 # Fun Loading Message with CSS Animation
 
 This is a simple HTML and CSS code snippet that displays a loading message with a rotating animation. When you view it in a web browser, you'll see a message along with a loading animation.
